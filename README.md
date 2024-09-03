@@ -20,3 +20,5 @@ move the mod/client to your mods folder
 * for windows - press windowsKey+R and type ***%appdata%.minecraft/mods*** and move the mod/client jar file there
 
 * Enjoy!
+
+# if does not work, directly ask the owner ZxFallenAngel - [ zxfallenangel ] @discord.com
