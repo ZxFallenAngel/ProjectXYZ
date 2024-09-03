@@ -2,4 +2,17 @@
 
 * How to Install?
 
-git clone 
+git clone https://github.com/ZxFallenAngel/ProjectXYZ.git
+
+cd ProjectXYZ
+
+python installer.py
+
+
+
+move the mod/client to your mods folder
+
+
+* for PoJavLauncher - Android/data/net.kdt.pojavlaunch/files/.minecraft/mods - you may need to ENABLE 'SHOW HIDDEN FILES'!!
+
+* for linux - home/.minecraft/mods
