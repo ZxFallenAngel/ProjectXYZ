@@ -13,7 +13,7 @@ python installer.py
 move the mod/client to your mods folder
 
 
-* for PoJavLauncher - Android/data/net.kdt.pojavlaunch/files/.minecraft/mods - you may need to ENABLE 'SHOW HIDDEN FILES'!!
+* for PoJavLauncher - Android/data/net.kdt.pojavlaunch/files/.minecraft/mods - you may need to ENABLE 'SHOW HIDDEN FILES'!! if using ZArchiver :D
 
 * for linux - home/.minecraft/mods
 
