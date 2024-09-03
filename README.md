@@ -16,3 +16,7 @@ move the mod/client to your mods folder
 * for PoJavLauncher - Android/data/net.kdt.pojavlaunch/files/.minecraft/mods - you may need to ENABLE 'SHOW HIDDEN FILES'!!
 
 * for linux - home/.minecraft/mods
+
+* for windows - press windowsKey+R and type ***%appdata%.minecraft/mods*** and move the mod/client jar file there
+
+* Enjoy!
